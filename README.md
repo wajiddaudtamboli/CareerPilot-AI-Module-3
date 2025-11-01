@@ -159,11 +159,3 @@ git clone https://github.com/wajiddaudtamboli/CareerPilot-AI.git
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/wajiddaudtamboli/CareerPilot-AI-Module-3/issues).
-
-## 📄 License
-
-This project is [MIT](LICENSE) licensed.
-
----
-
-⭐ Star this repo if you find it helpful!
